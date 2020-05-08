@@ -43,3 +43,7 @@ body {
 .content {
   padding: 100px;
 }
+
+#description {
+  padding: 30px;
+}
