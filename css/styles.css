@@ -55,9 +55,13 @@ body {
   background-size: cover;
   object-fit: cover;
   width: 100%;
-  height: 60vh;
+  height: 80vh;
 }
 
 #socials img {
   padding: 25px 10px;
+}
+
+.info {
+  background: none;
 }
