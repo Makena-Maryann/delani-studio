@@ -47,3 +47,13 @@ body {
 #description {
   padding: 30px;
 }
+
+#contact {
+  background-image: url("/images/backgrounds/c_image.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  object-fit: cover;
+  width: 100%;
+  height: 60vh;
+}
