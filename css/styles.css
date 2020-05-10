@@ -62,6 +62,7 @@ body {
 
 .project-name {
   background: rgba(0, 0, 0, 0.75);
+  display: none;
 }
 
 .card-text {
