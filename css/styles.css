@@ -48,7 +48,15 @@ body {
   padding: 30px;
 }
 
-.toggle {
+.toggle1 {
+  display: none;
+}
+
+.toggle2 {
+  display: none;
+}
+
+.toggle3 {
   display: none;
 }
 
