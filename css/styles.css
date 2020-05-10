@@ -60,6 +60,17 @@ body {
   display: none;
 }
 
+.project-name {
+  background: rgba(0, 0, 0, 0.75);
+}
+
+.card-text {
+  border: 3px solid white;
+  padding-bottom: 55px;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+
 #contact {
   background-image: url("/images/backgrounds/c_image.jpg");
   background-repeat: no-repeat;
