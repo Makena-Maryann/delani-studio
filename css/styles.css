@@ -48,6 +48,10 @@ body {
   padding: 30px;
 }
 
+.toggle {
+  display: none;
+}
+
 #contact {
   background-image: url("/images/backgrounds/c_image.jpg");
   background-repeat: no-repeat;
