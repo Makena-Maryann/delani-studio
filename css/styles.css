@@ -9,7 +9,7 @@ body {
   background-size: cover;
   object-fit: cover;
   width: 100%;
-  height: 120vh;
+  height: 103vh;
 }
 
 .logo {
@@ -23,7 +23,7 @@ body {
 
 .mouse {
   margin-top: 50px;
-  padding: 40px;
+  padding-top: 55px;
 }
 
 #about {
