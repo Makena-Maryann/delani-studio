@@ -54,7 +54,14 @@ body {
   display: none;
 }
 
-.project-name {
+.project-name1,
+.project-name2,
+.project-name3,
+.project-name4,
+.project-name5,
+.project-name6,
+.project-name7,
+.project-name8 {
   background: rgba(0, 0, 0, 0.75);
   display: none;
 }

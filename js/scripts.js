@@ -14,7 +14,35 @@ $(document).ready(function () {
     $(".click3").toggle();
   });
 
-  $(".card-img").hover(function () {
-    $(".project-name").toggle();
+  $(".work-1").hover(function () {
+    $(".project-name1").toggle();
+  });
+
+  $(".work-2").hover(function () {
+    $(".project-name2").toggle();
+  });
+
+  $(".work-3").hover(function () {
+    $(".project-name3").toggle();
+  });
+
+  $(".work-4").hover(function () {
+    $(".project-name4").toggle();
+  });
+
+  $(".work-5").hover(function () {
+    $(".project-name5").toggle();
+  });
+
+  $(".work-6").hover(function () {
+    $(".project-name6").toggle();
+  });
+
+  $(".work-7").hover(function () {
+    $(".project-name7").toggle();
+  });
+
+  $(".work-8").hover(function () {
+    $(".project-name8").toggle();
   });
 });
