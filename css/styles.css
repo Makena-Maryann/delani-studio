@@ -1,9 +1,11 @@
 body {
   margin: 0;
+  font-family: Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
+    sans-serif;
 }
 
 #home {
-  background-image: url("images/backgrounds/h_img.jpg");
+  background-image: url("/images/backgrounds/h_img.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -31,7 +33,7 @@ body {
 }
 
 #services {
-  background-image: url("images/backgrounds/s_image.jpg");
+  background-image: url("/images/backgrounds/s_image.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -74,7 +76,7 @@ body {
 }
 
 #contact {
-  background-image: url("images/backgrounds/c_image.jpg");
+  background-image: url("/images/backgrounds/c_image.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
