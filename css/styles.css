@@ -5,7 +5,7 @@ body {
 }
 
 #home {
-  background-image: url("./images/backgrounds/h_img.jpg");
+  background-image: url("../images/backgrounds/h_img.jpg");
   background-color: black;
   background-repeat: no-repeat;
   background-position: center;
@@ -34,7 +34,7 @@ body {
 }
 
 #services {
-  background-image: url("./images/backgrounds/s_image.jpg");
+  background-image: url("../images/backgrounds/s_image.jpg");
   background-color: black;
   background-repeat: no-repeat;
   background-position: center;
@@ -78,7 +78,7 @@ body {
 }
 
 #contact {
-  background-image: url("./images/backgrounds/c_image.jpg");
+  background-image: url("../images/backgrounds/c_image.jpg");
   background-color: black;
   background-repeat: no-repeat;
   background-position: center;
