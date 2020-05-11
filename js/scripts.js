@@ -45,4 +45,12 @@ $(document).ready(function () {
   $(".work-8").hover(function () {
     $(".project-name8").toggle();
   });
+
+  $("form").submit(function (event) {
+    event.preventDefault();
+    let fullName = $("#name").val();
+    alert(
+      fullName + " we have received your messsage. Thank you for reaching out."
+    );
+  });
 });
