@@ -5,7 +5,7 @@ body {
 }
 
 #home {
-  background-image: url("/h_img.jpg");
+  background-image: url("h_img.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -33,7 +33,7 @@ body {
 }
 
 #services {
-  background-image: url("/s_image.jpg");
+  background-image: url("s_image.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -76,7 +76,7 @@ body {
 }
 
 #contact {
-  background-image: url("/c_image.jpg");
+  background-image: url("c_image.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
