@@ -14,6 +14,7 @@ $(document).ready(function () {
     $(".click3").toggle();
   });
 
+  //Projects section
   $(".work-1").hover(function () {
     $(".project-name1").toggle();
   });
@@ -46,11 +47,17 @@ $(document).ready(function () {
     $(".project-name8").toggle();
   });
 
+  //Alert on submit
   $("form").submit(function (event) {
     event.preventDefault();
     let fullName = $("#name").val();
-    alert(
-      fullName + " we have received your messsage. Thank you for reaching out."
-    );
+    if (fullName != 0) {
+      alert(
+        fullName +
+          " we have received your messsage. Thank you for reaching out."
+      );
+    } else {
+      alert("Please fill in your name.");
+    }
   });
 });
